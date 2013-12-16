@@ -1,4 +1,4 @@
-
+ 
 /**
  * @(#)Ubicacion.java
  *
@@ -16,7 +16,7 @@ public class Gato extends Animal {
 
 
 	public Gato(String pnombre, String pcolor){
-		super("Gato");
+		super("Gato Maricon");
                 setColor(pcolor);
                 }
 

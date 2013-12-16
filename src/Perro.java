@@ -14,7 +14,7 @@ public class Perro extends Animal {
 
 
 	public Perro (String pnombre, String pcolor){
-		super("Pastor alemán");
+		super("Pastor alemán maricon");
                 setColor(pcolor);
                 }
 
